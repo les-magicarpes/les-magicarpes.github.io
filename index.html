@@ -29,3 +29,15 @@ title: Sera - OnePage Multi-Purpose Theme
 {% include sections/contact.html %}
 
 {% include sections/offer.html offer-text="<strong>S</strong><span class=\"thin\">era</span> is here, download now!" button-text="Buy Now" %}
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
