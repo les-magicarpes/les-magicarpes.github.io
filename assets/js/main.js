@@ -156,7 +156,7 @@
 
       // Reveal Item on Scroll
       function revealItem($container, $item) {
-        if($scrollTop > ($container.offset().top - $windowHeight/1.3 )) {
+        if($scrollTop > ($container.offset() - $windowHeight/1.3 )) {
 
           $item.each(function(i) {
             setTimeout(function() {

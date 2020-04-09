@@ -47,13 +47,13 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: Les Magicarpes
 # Website language
 lang: en-US
 # Header Title
-header-title: Create the <strong>Impossible</strong>
+header-title: Les <strong>Magicarpes</strong>
 # Header Tagline
-headter-tagline: We Always
+headter-tagline: Quand des amis créent deux blogs en un
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -61,12 +61,12 @@ headter-tagline: We Always
 
 # Focus Buttons
 header-focus-button:
-  title: Download Now
+  title: Nos<br/>jeux vidéos
   url: https://themeforest.net/collections/6069390-sera
 
 # Secondary Buttons
 header-secondary-button:
-  title: Discover More
+  title: Nos conseils alcolisés
   url: http://themeforest.net/user/gleesik
 
 #
@@ -135,7 +135,7 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
+about-title: Bienvenue sur le blog des <b>M</b>agicarpes
 about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 
@@ -236,7 +236,7 @@ portfolio:
 #####################################
 ##########  Core Features  ##########
 #####################################
-core-title: Core Features
+core-title: Que trouver ici
 core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
 
 #
@@ -245,24 +245,24 @@ core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet 
 core-features-left:
 
 # Feature
-- name: Creative
+- name: Jeux
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-light
+  icon: pe-7s-joy
 
 # Feature
-- name: Minimalism
+- name: Statistiques
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-drop
+  icon: pe-7s-graph2
 
 # Feature
-- name: Clean Coding
+- name: Tests
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-coffee
+  icon: pe-7s-help1
 
 # Feature
-- name: Friendly
+- name: Bibliothèque
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-smile
+  icon: pe-7s-server
 
 #
 # Core Features Right
@@ -270,24 +270,24 @@ core-features-left:
 core-features-right:
 
 # Feature
-- name: Branding
+- name: Alcools
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
   icon: pe-7s-wine
 
 # Feature
-- name: Web Design
+- name: Opinions
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-monitor
+  icon: pe-7s-news-paper
 
 # Feature
-- name: Graphic Design
+- name: Dégustations
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-crop
+  icon: pe-7s-cup
 
 # Feature
-- name: Photography
+- name: Liste
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-camera
+  icon: pe-7s-server
 
 
 #####################################
@@ -337,7 +337,7 @@ testimonials:
 #####################################
 ############# Our Blog ##############
 #####################################
-blog-title: Our Blog
+blog-title: Nos Articles
 blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 
@@ -445,7 +445,7 @@ plan-ultimate-url: '#'
 #####################################
 ############   Contact   ############
 #####################################
-contact-title: Contact Us
+contact-title: Contactez-nous
 contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
 
 
@@ -453,6 +453,5 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #############   Footer   ############
 #####################################
 footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Gleesik&trade;
-footer-copyright-url: http://gleesik.ro/
-footer-copyright-year: 2016
+footer-copyright-text: Romain Labé
+footer-copyright-url: https://rlabe.github.io/
